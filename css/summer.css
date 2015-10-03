@@ -1,0 +1,153 @@
+@media all {
+  
+  body {
+  	color: #ffffff;
+  	background-color: #083f12;
+  }
+  
+  th {
+    font-weight: normal;
+  	color: #ffffff;
+  	background-color: #083f12;
+  }
+
+  div.Page {
+  	border: 2px solid #158113;
+  	color: #083f12;
+  	background-color: #ffffff;
+  }
+
+  div.Header {
+  	color: #ffffff;
+  	background-color: #5abe36;
+  	background-image: url(/images/bgnd-summer.jpg);
+  	background-repeat: repeat;
+  	background-attachment: scroll;
+  	background-position: top left;
+  }
+
+  div.PageBody {
+  	border-top: 2px solid #158113;
+  	color: #083f12;
+  	background-color: #ffffff;
+  }
+
+  div.PageBody div.MainText h1 {
+  	color: #158113;
+  	background-color: #ffffff;
+  }
+
+  div.Footer {
+  	border-top: 2px solid #158113;
+  	color: #ffffff;
+  	background-color: #5abe36;
+  	background-image: url(/images/bgnd-summer.jpg);
+  	background-repeat: repeat;
+  	background-attachment: scroll;
+  	background-position: top left;
+  }
+
+  div.Copyright {
+  	color: #158113;
+  	background: transparent;
+  }
+
+  span.ntThisPage {
+  	color: #158113;
+  	background-color: #ffffff;
+  }
+
+  span.btThisPage {
+  	color: #158113;
+  	background-color: #ffffff;
+  }
+
+  span.glThisPage {
+  	color: #000000;
+  	background-color: #ffffff;
+  }
+
+  a {
+  	color: #5abe36;
+  	background: #ffffff;
+  }
+
+  a:visited {
+  	color: #666666;
+  	background: #ffffff;
+  }
+
+  a:hover {
+  	color: #da1f38;
+  	background: #ffffff;
+  }
+
+  a.Logo {
+  	color: #ffffff;
+  	background: transparent;
+  }
+
+  a.Logo:visited {
+  	color: #ffffff;
+  	background: transparent;
+  }
+
+  a.Logo:hover {
+  	color: #da1f38;
+  	background: #ffffff;
+  }
+
+  a.ntNav {
+  	color: #5abe36;
+  	background: #ffffff;
+  }
+
+  a.ntNav:visited {
+  	color: #666666;
+  	background: #ffffff;
+  }
+
+  a.ntNav:hover {
+  	color: #da1f38;
+  	background: #ffffff;
+  }
+
+  a.btTrail {
+  	color: #5abe36;
+  	background: #ffffff;
+  }
+
+  a.btTrail:visited {
+  	color: #666666;
+  	background: #ffffff;
+  }
+
+  a.btTrail:hover {
+  	color: #da1f38;
+  	background: #ffffff;
+  }
+
+  a.glGlobal {
+  	color: #ffffff;
+  	background: transparent;
+  }
+
+  a.glGlobal:hover {
+  	color: #da1f38;
+  	background: #ffffff;
+  }
+
+  img.Left {
+  	border: 1px solid #158113;
+  }
+
+  img.Right {
+  	border: 1px solid #158113;
+  }
+  
+  span.Highlight {
+    color: #5abe36;
+    background: #ffffff;
+  }
+
+}

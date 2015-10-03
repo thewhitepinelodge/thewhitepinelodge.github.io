@@ -1,0 +1,242 @@
+@media all {
+
+  body {
+  	font-family: Verdana, Helvetica, Arial, sans-serif;
+  	font-size: 0.85em;
+  	margin: 0px;
+  	padding: 0px;
+  }
+  
+  input.login {
+    border: 2px solid #009900;
+    color: #009900;
+    background: #ffffff;
+  }
+
+  input.login:hover {
+    border: 2px solid #00ff00;
+    color: #00ff00;
+    background: #ffff99;
+  }
+  
+  input.logout {
+    border: 2px solid #990000;
+    color: #990000;
+    background: #ffffff;
+  }
+
+  input.logout:hover {
+    border: 2px solid #ff0000;
+    color: #ff0000;
+    background: #ffff99;
+  }
+  
+  input.update {
+    border: 2px solid #cc00cc;
+    color: #cc00cc;
+    background: #ffffff;
+  }
+
+  input.update:hover {
+    border: 2px solid #660066;
+    color: #660066;
+    background: #ffccff;
+  }
+  
+  p.note {
+    font-size: 0.8em;
+    font-weight: normal;
+    width: 12em;
+  }
+  
+  td.number {
+    width: 3.5em;
+  }
+
+  div.Page {
+  	margin: auto;
+  	margin-top: 10px;
+  	padding: 0px;
+  	width: 620px;
+  }
+
+  div.Header {
+  	margin: 0px;
+  	padding: 10px;
+  	padding-top: 30px;
+  }
+
+  div.Page p.Logo {
+  	font-size: 1.6em;
+  	font-weight: normal;
+  	font-style: normal;
+  	margin: 0px;
+  	padding: 0px;
+  }
+
+  div.PageBody {
+  	margin: 0px;
+  	padding: 10px;
+  }
+
+  ul.ntNavTree {
+  	margin-left: 20px;
+  	margin-top: 0px;
+  	padding-left: 0px;
+  	width: 180px;
+  }
+
+  ul.ntNav {
+  	margin-left: 20px;
+  	margin-top: 0px;
+  	padding-left: 0px;
+  }
+
+  div.PageBody div.MainText {
+
+  	margin-left: 200px;
+  }
+
+  div.PageBody div.MainText h1 {
+  	font-size: 1.4em;
+  	margin-top: 0px;
+  	margin-bottom: 0px;
+  	padding-top: 10px;
+  	padding-bottom: 0px;
+
+  }
+
+  div.PageBody div.MainText h2 {
+  	font-size: 1.2em;
+  	margin-top: 0px;
+  	margin-bottom: 0px;
+  	padding-top: 10px;
+  	padding-bottom: 0px;
+
+  }
+
+  div.PageBody div.NavBar {
+  	width: 180px;
+  	float: left;
+  }
+
+  div.PageBody div.TrailLinks {
+  	font-size: 0.9em;
+  	margin-left: 200px;
+
+  }
+
+  div.PageBody div.TrailLinks p {
+  	margin: 0px;
+  	padding: 0px;
+  }
+
+  div.Footer {
+  	text-align: center;
+  	clear: both;
+  	margin: 0px;
+  	padding: 5px;
+  }
+
+  div.Footer p {
+  	margin: 0px;
+  	padding: 0px;
+  }
+
+  div.Copyright {
+  	font-size: 0.8em;
+  	text-align: center;
+  	margin-top: 5px;
+  	margin-bottom: 15px;
+  }
+
+  div.Copyright p {
+  	margin: 0px;
+  	padding: 0px;
+  }
+
+  p.PageLocator {
+  	display: none;
+  }
+
+  a {
+  	text-decoration: none;
+  }
+
+  a:hover {
+  	text-decoration: underline;
+  }
+
+  a.Logo {
+  	text-decoration: none;
+  }
+
+  a.ntNav {
+  	text-decoration: none;
+  }
+
+  a.ntNav:hover {
+  	text-decoration: underline;
+  }
+
+  a.btTrail {
+  	text-decoration: none;
+  }
+
+  a.btTrail:hover {
+  	text-decoration: underline;
+  }
+
+  a.glGlobal {
+  	padding-left: 2px;
+  	padding-right: 2px;
+  	text-decoration: none;
+  }
+
+  img.Left {
+  	float: left;
+  	padding: 2px;
+  	margin: 10px;
+  	margin-left: 0px;
+  }
+  img.Right {
+  	float: right;
+  	padding: 2px;
+  	margin: 10px;
+  	margin-right: 0px;
+  }
+
+  div.Thumbnail {
+  	clear: both;
+  }
+
+  table.Discounts {
+    margin: 1em 0 1em 0;
+  	border-top: 1px solid #999;
+  	border-left: 1px solid #999;
+  }
+  
+  table.Discounts caption {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  table.Discounts th {
+  	border-right: 1px solid #999;
+  	border-bottom: 1px solid #999;
+  }
+
+  table.Discounts td {
+  	border-right: 1px solid #999;
+  	border-bottom: 1px solid #999;
+  }
+
+}
+
+/* PRINT */
+@media print {
+ 
+ 
+  
+}
